@@ -6,7 +6,7 @@ Get-Kurumin Framework Delphi VCL Repository 👾 👽
 (PT-BR)
 Atenção os ícones utilizados neste framework são creditados ao Icons8. 
 A Get Kurumin não assume quaisquer responsabilidade pelo uso indevido destes ícones. Ao usar esse framework você concorda em creditar a Icons8 e ou seus artistas pelos ícones utilizados, você estará livre desta citação caso use esse framework e remova os ícones ou os altere.
-Incentivamos sua adesão a comunidade, nos ajudando a manter este framework, envie para nosso GitHub suas melhores modicações, e ajude a manter nosso site maior e atualizado, a nossa equipe agradece.💪☺️
+Incentivamos sua adesão a comunidade, nos ajudando a manter este framework, envie para nosso GitHub suas melhores modificações, e ajude a manter nosso site maior e atualizado, a nossa equipe agradece.💪☺️
 Estamos na nossa versão inicial, muitas coisas novas vem por ai, siga-nos em nossas redes sociais.
 A Get Kurumin não exige citação ou crédito, porém, agradeceríamos se o fizesse. Você pode realizar uma doação para manter nosso projeto "vivo" se preferir acesse a nossa pagina no GitHub e saiba mais.👏 
 Att: Equipe Kurumin. 

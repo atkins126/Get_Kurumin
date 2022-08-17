@@ -15,7 +15,7 @@ Icones Icons8: www.icons8.com
 
 Get Kurumin: www.github.com/Get-Kurumin 
 
-Site: get-kurumin.github.io
+Site: www.get-kurumin.github.io
 
 Youtube: https://www.youtube.com/channel/UCuqXKmrdFQp1-pQb32x00Qw/featured
 
@@ -34,7 +34,7 @@ Icons8 icons: www.icons8.com
 
 Get Kurumin: www.github.com/Get-Kurumin
 
-Site: get-kurumin.github.io
+Site: www.get-kurumin.github.io
 
 Youtube: https://www.youtube.com/channel/UCuqXKmrdFQp1-pQb32x00Qw/featured
 
@@ -53,7 +53,7 @@ Iconos8 iconos: www.icons8.com
 
 Get Kurumin: www.github.com/Get-Kurumin
 
-Sitio: get-kurumin.github.io
+Sitio: www.get-kurumin.github.io
 
 Youtube: https://www.youtube.com/channel/UCuqXKmrdFQp1-pQb32x00Qw/featured
 
